@@ -1,8 +1,9 @@
 ### Projection information for NCEP North American Regional Reanalysis: NARR
 ### is Northern Lambert Conformal Conic grid. 
-### Corners of this grid are 12.2N; 
-### 133.5W, 54.5N; 
-### 152.9W, 57.3N; 49.4W, 
+### Corners of this grid are 
+### 12.2N; 133.5W,
+### 54.5N; 152.9W,
+### 57.3N; 49.4W, 
 ### 14.3N; 65.1W (essentially, North America). 
 ### The grid resolution is 349x277, which is approximately 0.3 degrees (32km) 
 ### resolution at the lowest latitude
