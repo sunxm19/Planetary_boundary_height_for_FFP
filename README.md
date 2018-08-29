@@ -1,4 +1,4 @@
-# Planetary_boundary_height_for_Kljun_footprint
+# Planetary_boundary_height_for_Kljun_FFP_footprint_model
 extracting boundary height within North America from NOAA regional data (Only North American), used for Kljun Eddy Covaraince footprint model. 
 
 This code serves as a supplementary file to Kljun's foortprint model for eddy covarainces system.
