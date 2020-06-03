@@ -1,5 +1,5 @@
 # Planetary_boundary_height_for_Kljun_FFP_footprint_model
-extracting boundary height within North America from NOAA regional data (Only North American), used for Kljun Eddy Covaraince footprint model. 
+extracting boundary height within North America from NOAA regional data (Only North American), used for Kljun Eddy Covaraince footprint model. For the regions beyond North America, an alternative source might be the ERA-Interim data set, which is a reanalysis product available for the whole globe from 1979 onward.
 
 This code serves as a supplementary file to Kljun's foortprint model for eddy covarainces system.
 
