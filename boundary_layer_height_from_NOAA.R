@@ -29,7 +29,8 @@ my_year <- 2016  #  year of 2016 is just an example
 
 URL <- paste0("ftp://ftp.cdc.noaa.gov/Datasets/NARR/monolevel/hpbl.",my_year,".nc")
 download.file(url = URL, destfile = paste0("hpbl.",my_year,".nc"))
-
+## recommend to manually download the file, and using download.file() seems problematic according to 
+## https://stackoverflow.com/questions/51911544/r-crashes-while-opening-netcdf-file
 
 ############ second way is automatically grab data online with "data.table" pacakge 
 library(data.table)
